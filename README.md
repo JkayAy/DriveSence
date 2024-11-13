@@ -13,6 +13,8 @@ The project is organized into distinct modules for modular development and deplo
 
 plaintext
 Copy code
+
+
 smart_city_project/
 │
 ├── backend/                 # Backend Flask API for data processing and analytics
@@ -37,6 +39,7 @@ smart_city_project/
 ├── reports/                 # Exported reports and data
 ├── tests/                   # Unit tests for modules
 └── README.md                # Project documentation
+
 Technologies Used
 Backend: Flask, SQLAlchemy for ORM, RESTful API design.
 Frontend: Dash for interactive data visualization.
