@@ -54,7 +54,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/smart-city-vehicle-detection.git
+git clone https://github.com/JkayAy/smart-city-vehicle-detection.git
 cd smart-city-vehicle-detection
 Set up virtual environments for the backend, frontend, and detection modules to isolate dependencies.
 
