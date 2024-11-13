@@ -1,0 +1,21 @@
+/* 
+4. assets/styles.css (CSS for Styling) You can use this file to style your Dash application. Place custom CSS styles here to control how your graphs,
+buttons,
+and other elements look.
+*/
+
+/* Example styles */
+body {
+ font-family: Arial, sans-serif;
+}
+
+#map-visualization {
+ height: 60vh;
+ /* Adjust the height for the map */
+ width: 100%;
+ margin-bottom: 20px;
+}
+
+#violation-table {
+ margin-top: 20px;
+}
